@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy==1.26.4
+matplotlib
+tqdm
+scikit-image
+# only for testing use python 3.11.x prefer conda
+skinpy

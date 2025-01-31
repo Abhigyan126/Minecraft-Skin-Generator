@@ -1,0 +1,13 @@
+Model trained on a sample dataset of 10000 skins link:https://www.kaggle.com/datasets/abhigyanryan/minecraft-10000-skins
+
+Hyperparameter 
+latent_dim = 128
+img_channels = 3
+img_size = 64
+epochs = 500
+batch_size = 64
+lambda_gp = 10
+Generator -> lr=1e-4, betas=(0.0, 0.999)
+Critic    -> lr=5e-5, betas=(0.0, 0.999) 
+
+performs consistently close to 90 percentage generated are consistant but overall have low attention sharpness.
