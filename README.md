@@ -9,7 +9,6 @@ A deep learning project that generates unique Minecraft character skins using a 
   
 ![render png 09-47-12-210](https://github.com/user-attachments/assets/6c86e1ea-d5c0-458f-9d4a-05b5f0967e69)
 ![render](https://github.com/user-attachments/assets/0a4fa3c1-4a69-4a51-b780-9d155a80eb76)
-![render](https://github.com/user-attachments/assets/217c026b-6945-4fcd-8ebf-34a829c4c476)
 ![render-2](https://github.com/user-attachments/assets/e2e94b8a-0fb4-464a-8a73-7ca42f6121f8)
 ![render-3](https://github.com/user-attachments/assets/0323d15b-5936-4aeb-9ace-72422d9e042a)
 ![render-4](https://github.com/user-attachments/assets/fa5f47c1-3def-4245-8e19-5658b8bcb33d)
@@ -17,7 +16,6 @@ A deep learning project that generates unique Minecraft character skins using a 
 ![render-6](https://github.com/user-attachments/assets/3ac69eec-f484-4d53-ae51-b904b5a7df3c)
 ![render-8](https://github.com/user-attachments/assets/a8189543-f182-4525-ad54-6f7e2f97e4c1)
 ![render-9](https://github.com/user-attachments/assets/6ff1ed7f-7b28-4f79-a120-80eedee0a403)
-![render](https://github.com/user-attachments/assets/982c5d46-bd78-4a17-9d80-bc186b07102b)
 
 </p>
 
