@@ -1,7 +1,7 @@
 <h2 align='center'>
 Minecraft Skin Generator using WGAN-GP
 </h2>
-A deep learning project that generates unique Minecraft character skins using a Wasserstein GAN with Gradient Penalty (WGAN-GP).
+A deep learning model that generates unique Minecraft character skins using a Wasserstein GAN with Gradient Penalty (WGAN-GP).
 
 ## Sample
 
