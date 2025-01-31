@@ -179,5 +179,3 @@ The training process includes:
 - SSIM score monitoring
 - Regular sample generation for visual inspection
 
-
-## License
