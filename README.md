@@ -2,7 +2,7 @@
 Minecraft Skin Generator using WGAN-GP
 </h2>
 A deep learning model that generates unique Minecraft character skins using a Wasserstein GAN with Gradient Penalty (WGAN-GP).
-
+Check out Nextjs implementation: https://peelskin.vercel.app/
 ## Sample
 
 <p float="left">
