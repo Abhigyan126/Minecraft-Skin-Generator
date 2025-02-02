@@ -5,7 +5,7 @@ A deep learning model that generates unique Minecraft character skins using a Wa
 
 ## implementation
 
-<p align="center">Check out Nextjs implementation: https://peelskin.vercel.app/</p>
+<p align="center">Check out Nextjs implementation: https://blockface.vercel.app/</p>
 
 ## Sample
 
